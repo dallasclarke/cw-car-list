@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Mercedes",
+        "type": "GLE",
+        "year": "2020"
+    },
+    {
+        "name": "BMW",
+        "type": "X6",
+        "year": "2019"
+    },
+    {
+        "name": "Audi",
+        "type": "A7",
+        "year": 2018
+    }
+]
